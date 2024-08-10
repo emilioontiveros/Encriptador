@@ -85,3 +85,13 @@ main {
     color: #495057;
     font-size: 18px;
 }
+
+.pie-de-pagina {
+    background: #0A3871;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    margin-top: 30px;
+    padding-top: 5px;
+    text-align: center;
+}
